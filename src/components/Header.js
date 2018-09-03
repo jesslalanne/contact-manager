@@ -19,7 +19,7 @@ const Header = (props) => {
     );
 };
 
-Header.PropTypes = {
+Header.propTypes = {
     branding: PropTypes.string.isRequired
 };
 
